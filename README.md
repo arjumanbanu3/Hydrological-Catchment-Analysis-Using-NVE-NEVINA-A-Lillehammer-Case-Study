@@ -168,6 +168,22 @@ The estimated Q200 flood exceeds 2200 m³/s, demonstrating the importance of flo
 
 ---
 
+# Sources
+
+This analysis was performed using outputs generated from NVE's NEVINA platform. Link: https://nevina.nve.no/
+
+Documents used:
+
+- Nedbørfeltparam-rapport
+- Lavvannsindeks-rapport
+- Flomindeks-rapport
+
+Software and data source:
+
+- NVE NEVINA (Norwegian Water Resources and Energy Directorate)
+
+---
+
 # Author
 
 **Arjuman Banu**
