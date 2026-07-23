@@ -12,7 +12,7 @@ The project includes:
 - Flood-frequency estimation
 - Interpretation of hydrological data
 
-The objective is to demonstrate practical hydrological and GIS skills relevant to watershed assessment and flood-risk analysis.
+The objective is to demonstrate practical hydrological and catchment-analysis skills using NVE's NEVINA platform, with a focus on watershed delineation, catchment characterization, low-flow assessment and flood-risk analysis.
 
 ---
 
