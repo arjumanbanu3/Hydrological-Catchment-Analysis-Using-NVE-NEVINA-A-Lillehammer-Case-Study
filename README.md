@@ -170,6 +170,6 @@ The estimated Q200 flood exceeds 2200 m³/s, demonstrating the importance of flo
 
 # Author
 
-**Arjuman Batu**
+**Arjuman Banu**
 
-MSc Hydrogeology | GIS | Hydrology | Environmental Data Analysis
+MSc Hydrogeology, UiB | GIS | Hydrology | Environmental Data Analysis
